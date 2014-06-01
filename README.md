@@ -1,4 +1,0 @@
-Persistence
-===========
-
-A PDO wrapper
